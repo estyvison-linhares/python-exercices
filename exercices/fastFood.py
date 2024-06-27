@@ -1,3 +1,13 @@
+"""
+Este exercício foi criado por mim mesmo. A ideia é ter um cardápio com várias categorias de itens.
+Um cliente pode selecionar quantos itens do cardápio quiser desde que o restaurante possua a quantidade
+de itens e o cliente tenha dinheiro suficiente para pagar todos os itens da lista. 
+"""
+
+"""
+Melhorias em breve!
+"""
+
 from typing import List, Dict
 
 customer1: Dict = {
